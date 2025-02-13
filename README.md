@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jaimegonzalez2
-- 👀 I’m interested in GIS and coding.
-- 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on small projects.
+- 👀 I’m interested in data analysis, GIS, and coding.
+- 🌱 I’m proficient in Python and SQL. Currently learning HTML, CSS, and JavaScript.
 - 📫 How to reach me via my LinkedIn: https://www.linkedin.com/in/jaime-gonzalez-jr-786471130/
 
 <!---
